@@ -1,0 +1,15 @@
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/bin/Debug/net6.0/Palindrome
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/bin/Debug/net6.0/Palindrome.deps.json
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/bin/Debug/net6.0/Palindrome.runtimeconfig.json
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/bin/Debug/net6.0/Palindrome.dll
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/bin/Debug/net6.0/Palindrome.pdb
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.csproj.AssemblyReference.cache
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfoInputs.cache
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.AssemblyInfo.cs
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.dll
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/refint/Palindrome.dll
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.pdb
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/Palindrome.genruntimeconfig.cache
+/Users/usuario/Documents/Meli/Palindromo/Palindrome/obj/Debug/net6.0/ref/Palindrome.dll
